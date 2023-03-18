@@ -63,7 +63,7 @@ def main():
 
             name = "./frames/frame%d.jpg" % i
             cv2.imwrite(name, result_overlay)
-            cv2.imshow(name, video_frame)
+            # cv2.imshow(name, video_frame)
             cv2.imshow("result_overlay", result_overlay)
 
             if cv2.waitKey(1) & 0xFF == ord('q'):

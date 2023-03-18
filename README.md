@@ -5,11 +5,11 @@
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/motion-heatmap-opencv.git
+https://github.com/DebZakari/enyoumerate-motion-heatmap.git
 ```
 - Goto the cloned folder.
 ```
-cd motion-heatmap-opencv
+cd enyoumerate-motion-heatmap
 
 ```
 - Upgrade pip with mentioned command below.
